@@ -1,4 +1,3 @@
-[No content]
 # Malicious MCP Server Example
 
 ## Overview
